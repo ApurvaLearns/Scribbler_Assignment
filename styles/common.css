@@ -1,0 +1,45 @@
+header{
+
+    font-family: 'Montez', cursive; 
+    color: blue;
+    padding: 1%;
+ 
+    
+
+
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-image: url(../images/background.jpg);  
+}
+
+#main_heading
+{
+    width: 80%
+}
+
+#id1
+{
+    float: left;
+    font-size: 200%;
+}
+
+#id2
+{
+    float: right;
+}
+
+#id3{
+    font-family: 'Ubuntu Mono', monospace;
+    color: black;
+}
+
+#center_buttons
+{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
